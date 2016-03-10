@@ -1,4 +1,4 @@
 set number
 
 syntax on
-colorscheme PaperColor
+colorscheme CandyPaper
