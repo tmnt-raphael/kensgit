@@ -1,4 +1,4 @@
-# kensvim
+kensvim
 ====
 
 ## Introduction
